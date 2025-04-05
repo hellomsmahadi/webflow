@@ -1,4 +1,3 @@
-<script>
 document.addEventListener('DOMContentLoaded', function () {
   const radios = document.querySelectorAll('.filter_radio-button-field.is-product');
   const clearBtn = document.querySelector('.filter_radio-button-field.is-product-clear');
@@ -22,4 +21,3 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 });
-</script>
